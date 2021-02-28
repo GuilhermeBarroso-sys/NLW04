@@ -29,8 +29,7 @@
 
 
 ## 💻 Sobre o projeto
-Esse projeto é uma API Restful para  calculo de NPS (_Net Promoter Score_). Feito durante a trilha node.js da [Rocketseat](https://rocketseat.com.br/).
-# Como executar o projeto
+Esse projeto é uma API Restful para  calculo de NPS (_Net Promoter Score_).
 
 
 ## Pré-requisitos: Node.js, Yarn,  Insomnia ou Postman
